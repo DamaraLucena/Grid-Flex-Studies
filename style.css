@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    font-size: 62.5%;
+}
+
+body{
+    font-size: 1.8rem;
+}
+
+/* Header */
+
+.header{
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+    align-items: center;
+
+    padding: 2.5rem;
+
+    background-color: #1d1e20;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+
+    text-transform: uppercase;
+}
+
+/* Nav */
+
+.menu {
+    display: flex;
+    gap: 5rem;
+    padding: 2rem;
+}
+
+.menu li a {
+    display: block;
+}
+
+
+ul{
+    list-style: none;
+    color: white;
+}
+
+/* css Flex-box */
+
+h1{
+    text-align: center;
+    margin-top: 5rem;
+}
+
+
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 80rem;
+    margin: 0 auto;
+}
+
+.cards > div {
+    flex: 1 1 20rem;
+    margin: 1rem;
+}
+
+img{
+    max-width: 100%;
+    display: block;
+}
