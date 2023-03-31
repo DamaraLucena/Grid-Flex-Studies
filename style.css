@@ -124,3 +124,18 @@ img{
     }
 
 }
+
+/* Css Grid Two */
+
+.cards-grid-two{
+    display: grid;
+    grid-template-columns: 1fr 20rem;
+    grid-gap: 2rem;
+    max-width: 80rem;
+    padding: 1rem;
+    margin: 0 auto;
+}
+
+.card-grid-two > div {
+    margin-bottom: 1rem;
+}

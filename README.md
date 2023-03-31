@@ -49,7 +49,7 @@ Contribuições são sempre bem-vindas! Para contribuir com este projeto:
 
 ## 🔗 Links
 
-- [LinkedIn](https://www.linkedin.com/in/damara-lucena-930760189/)
+- [LinkedIn](https://www.linkedin.com/in/damaralucena)
 - [Twitter](https://twitter.com/Damara_Lucena)
 - [Discord](https://discord.gg/NU6FNVTX)
 - [Instagram](https://www.instagram.com/damara_lucena)
