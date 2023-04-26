@@ -59,5 +59,3 @@ Contribuições são sempre bem-vindas! Para contribuir com este projeto:
 Este projeto está sob a licença MIT.
 
 ---
-
-Feito com ♥ by DamaraLucena
